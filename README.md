@@ -16,7 +16,6 @@ Esse projeto foi feito com as seguintes tecnologias:
 # :rocket: Features
 
 * Website para cadastrar professores para darem aulas online.
-* App para conectar professores e alunos.
 
 # :construction_worker: Como rodar
 ```bash
