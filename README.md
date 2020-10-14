@@ -30,10 +30,10 @@ $ git clone https://github.com/RafaelGoulartB/Proffy.git
 $ cd nlw-proffy/server
 
 # Instale as dependências
-$ yarn install
+$ yarn add / npm install
 
 # Rode a aplicação
-$ yarn start
+$ yarn start / npm start
 ```
 Acesse a API em http://localhost:3333/
 
@@ -44,9 +44,9 @@ Acesse a API em http://localhost:3333/
 $ cd nlw-proffy/web
 
 # Instale as dependências
-$ yarn install
+$ yarn add / npm install
 
 # Rode a aplicação
-$ yarn start
+$ yarn start / npm start
 ```
 Vá para http://localhost:3000/ para ver o resultado.
