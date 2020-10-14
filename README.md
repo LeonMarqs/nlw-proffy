@@ -1,6 +1,6 @@
 <h1 align="center">Proffy</h1>
 
-# Web Screenshots
+# Web Screenshot
 <p align="center">
   <img src="https://imgur.com/rCh4CXX.png">
 </p>
@@ -9,9 +9,9 @@
 Esse projeto foi feito com as seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
-* [Express](https://expressjs.com/)      
+* [React](https://reactjs.org/)        
+* [Express](https://expressjs.com/)
+* [Node](https://nodejs.org/en/)
 
 # :rocket: Features
 
